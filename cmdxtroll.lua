@@ -8349,7 +8349,7 @@ function useCommand.fly()
 	FLYING = false
 	cmdlp.Character.Humanoid.PlatformStand = false
 	wait()
-	opx("-","You are now flying")
+	opx("-","Tu fly maintenant enculer de tes morts")
 	sFLY()
 	speedofthefly = permflyspeed
 end
@@ -8358,7 +8358,7 @@ function useCommand.vehiclefly()
 	FLYING = false
 	cmdlp.Character.Humanoid.PlatformStand = false
 	wait()
-	opx("-","You are now flying")
+	opx("-","Tu fly maintenant enculer de tes morts")
 	sFLY(true)
 	speedofthevfly = permflyspeed
 end
